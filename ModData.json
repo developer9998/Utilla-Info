@@ -1,6 +1,6 @@
 {
   "version": "1.6.20",
-  "conductBoardEntries": [
+  "conductBoardSections": [
     {
       "title": "CHEATING",
       "body": "ConductBoard/Cheating.txt"
